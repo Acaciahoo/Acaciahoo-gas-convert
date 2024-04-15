@@ -1,0 +1,29 @@
+{
+  "name": "Acaciahoo-gas-convert",
+  "version": "1.0.0",
+  "description": "Acaciahoo-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Acaciahoo/Acaciahoo-gas-convert.git"
+  },
+  "keywords": [
+    "Acaciahoo-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "Acaciahoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Acaciahoo/Acaciahoo-gas-convert/issues"
+  },
+  "homepage": "https://github.com/Acaciahoo/Acaciahoo-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
